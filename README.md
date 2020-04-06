@@ -18,6 +18,6 @@ A compendium of resources and best practices for software development and engine
   A good software engineer should be proficient in a version control system. Git
   is the focus for this document.
 
-  - /[[https://chris.beams.io/posts/git-commit/][How to Write a Git Commit Message]]/ by Chris Beams ([[https://web.archive.org/web/20200119100947/https://chris.beams.io/posts/git-commit/][archive link]])
-  - /[[https://git-scm.com/book/en/v2][ProGit]]/ by Scott Chacon and Ben Straub
+  -/[[https://chris.beams.io/posts/git-commit/][How to Write a Git Commit Message]]/ by Chris Beams ([[https://web.archive.org/web/20200119100947/https://chris.beams.io/posts/git-commit/][archive link]])
+  -/[[https://git-scm.com/book/en/v2][ProGit]]/ by Scott Chacon and Ben Straub
   - /[[https://nvie.com/posts/a-successful-git-branching-model/][A Successful Git Branching Model]]/ by Vincent Driessen ([[https://web.archive.org/web/20200117005352/https://nvie.com/posts/a-successful-git-branching-model/][archive link]])
