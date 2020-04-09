@@ -23,3 +23,7 @@
   - /[[https://chris.beams.io/posts/git-commit/][How to Write a Git Commit Message]]/ by Chris Beams ([[https://web.archive.org/web/20200119100947/https://chris.beams.io/posts/git-commit/][archive link]])
   - /[[https://git-scm.com/book/en/v2][ProGit]]/ by Scott Chacon and Ben Straub
   - /[[https://nvie.com/posts/a-successful-git-branching-model/][A Successful Git Branching Model]]/ by Vincent Driessen ([[https://web.archive.org/web/20200117005352/https://nvie.com/posts/a-successful-git-branching-model/][archive link]])
+
+* Satire
+
+- /[[https://medium.com/feature-creep/the-software-engineer-s-guide-to-asserting-office-dominance-ddea7b598df7][The software engineer’s guide to asserting dominance in the workplace]]/ by Daniel Wu
